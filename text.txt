@@ -4,5 +4,7 @@ welcome
 sjbit
 kengeri
 bangalore
+ thirsty= drink water
+ hungry= eat the food
 
 
